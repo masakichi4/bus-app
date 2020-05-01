@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bus-app/static/css/main.d1b05096.chunk.css",
-    "main.js": "/bus-app/static/js/main.36dc0adb.chunk.js",
-    "main.js.map": "/bus-app/static/js/main.36dc0adb.chunk.js.map",
+    "main.js": "/bus-app/static/js/main.2478b7b6.chunk.js",
+    "main.js.map": "/bus-app/static/js/main.2478b7b6.chunk.js.map",
     "runtime-main.js": "/bus-app/static/js/runtime-main.9f9d5da1.js",
     "runtime-main.js.map": "/bus-app/static/js/runtime-main.9f9d5da1.js.map",
     "static/js/2.90afc2a1.chunk.js": "/bus-app/static/js/2.90afc2a1.chunk.js",
     "static/js/2.90afc2a1.chunk.js.map": "/bus-app/static/js/2.90afc2a1.chunk.js.map",
     "index.html": "/bus-app/index.html",
-    "precache-manifest.83184bb8c524c57dde1f304ef359013b.js": "/bus-app/precache-manifest.83184bb8c524c57dde1f304ef359013b.js",
+    "precache-manifest.a408bbd43ab5fe5d6c432d683dd289ab.js": "/bus-app/precache-manifest.a408bbd43ab5fe5d6c432d683dd289ab.js",
     "service-worker.js": "/bus-app/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/bus-app/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.90afc2a1.chunk.js.LICENSE.txt": "/bus-app/static/js/2.90afc2a1.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9f9d5da1.js",
     "static/js/2.90afc2a1.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.36dc0adb.chunk.js"
+    "static/js/main.2478b7b6.chunk.js"
   ]
 }
