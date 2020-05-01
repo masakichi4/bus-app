@@ -12,7 +12,7 @@ const useStyles = makeStyles((theme) => ({
 
 export default function BottomDrawer(props) {
   const classes = useStyles();
-  const [open, setOpen] = React.useState(true);
+  const [open, setOpen] = React.useState(false);
 
   const displayData = props.data.length>10? props.data.splice(props.data.length-11, props.data.length-1):props.data
   let minSpeed, maxSpeed, unit;
