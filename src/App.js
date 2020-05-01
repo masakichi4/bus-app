@@ -240,7 +240,7 @@ class App extends React.Component {
           lng={longitude}
           nextStop={nextStop}   
           isMarkerShown
-          googleMapURL={"https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key="+REACT_APP_MAP}
+          googleMapURL={"https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key="+apiKey}
           loadingElement={<div style={{height: '80vh'}}/>}
           containerElement={<div style={{height: '80vh'}}/>}
           mapElement={<div style={{height: '80vh'}}/>} />

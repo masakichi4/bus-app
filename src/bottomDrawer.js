@@ -148,7 +148,7 @@ export default function BottomDrawer(props) {
             </div>
             {props.data.length>0 && props.data[0]['distance']===0 && 
               <Typography variant="h6">
-                Not enough data to show graph.
+                Not enough data to show graph. Please wait for a few more minutes.
               </Typography>
             }
             <br/>
