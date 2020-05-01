@@ -1,6 +1,7 @@
 import React from 'react';
 import axios from 'axios';
 
+const api_key = process.env.REACT_APP_BUS
 export default class ApiCall extends React.Component {
 
     static getPositions = async () =>{
@@ -10,7 +11,7 @@ export default class ApiCall extends React.Component {
 
         let v = [];
         await axios.get(
-            'https://api.511.org/transit/VehicleMonitoring?api_key=daa84c98-1b9e-42f3-a24d-175acc05fbe4&agency=AC',
+            'https://api.511.org/transit/VehicleMonitoring?api_key='+api_key+'&agency=AC',
             {},
             {headers}
             ).then(response => {

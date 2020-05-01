@@ -226,6 +226,7 @@ class App extends React.Component {
 
   render() {
     const {longitude,latitude, bus, nextStop, averageSpeedMapping} = this.state;
+    const apiKey = process.env.REACT_APP_MAP
 
 
     return (
@@ -239,7 +240,7 @@ class App extends React.Component {
           lng={longitude}
           nextStop={nextStop}   
           isMarkerShown
-          googleMapURL="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=AIzaSyAo6QFvNuxq6loKeEo2UiETvPRqwxJqndc"
+          googleMapURL={"https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key="+REACT_APP_MAP}
           loadingElement={<div style={{height: '80vh'}}/>}
           containerElement={<div style={{height: '80vh'}}/>}
           mapElement={<div style={{height: '80vh'}}/>} />
