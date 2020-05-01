@@ -1,3 +1,8 @@
+![Main page image](./screenshots/main.jpg)
+![Left menu image](./screenshots/left_menu.jpg)
+![Map after updated data](./screenshots/updated.jpg)
+![Graph 1](./screenshots/graph1.jpg)
+![Graph 2](./screenshots/graph2.jpg)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
