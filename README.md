@@ -1,14 +1,14 @@
 This app needs to be run with proper API keys from Google Maps and 511.org. <br>
 Please plug in your own API keys after downloading.
 
-<p style="text-align: center;">Main page</p>
+Main page
 ![Main page image](./screenshots/main.jpg)
-<p style="text-align: center;">Collapsible left menu with a tab</p>
+Collapsible left menu with a tab
 ![Left menu image](./screenshots/left_menu.jpg)
-<p style="text-align: center;">Updated bus location</p>
+Updated bus location
 ![Map after updated data](./screenshots/updated.jpg)
-<p style="text-align: center;">Bottom Panel opens/collapses on click, includes two graphs. Top graph: Time spent between each stop. Bottom graph: Average speed between each stop, Stops with similar speeds are grouped and colored the same.
-(The graphs will only show after enough data is collected for the tracked bus.)</p>
+Bottom Panel opens/collapses on click, includes two graphs. Top graph: Time spent between each stop. Bottom graph: Average speed between each stop, Stops with similar speeds are grouped and colored the same.
+(The graphs will only show after enough data is collected for the tracked bus.)
 ![Graph 2](./screenshots/graph2.jpg)
 
 
