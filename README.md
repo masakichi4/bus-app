@@ -1,15 +1,16 @@
-This app needs to be run with proper API keys from Google Maps and 511.org. 
+This app needs to be run with proper API keys from Google Maps and 511.org. <br>
 Please plug in your own API keys after downloading.
 
+<p style="text-align: center;">Main page</p>
 ![Main page image](./screenshots/main.jpg)
-Main page
+<p style="text-align: center;">Collapsible left menu with a tab</p>
 ![Left menu image](./screenshots/left_menu.jpg)
-Collapsible left menu with a tab
+<p style="text-align: center;">Updated bus location</p>
 ![Map after updated data](./screenshots/updated.jpg)
-Updated bus location
+<p style="text-align: center;">Bottom Panel opens/collapses on click, includes two graphs. Top graph: Time spent between each stop. Bottom graph: Average speed between each stop, Stops with similar speeds are grouped and colored the same.
+(The graphs will only show after enough data is collected for the tracked bus.)</p>
 ![Graph 2](./screenshots/graph2.jpg)
-Bottom Panel opens/collapses on click, includes two graphs. Top graph: Time spent between each stop. Bottom graph: Average speed between each stop, Stops with similar speeds are grouped and colored the same.
-(The graphs will only show after enough data is collected for the tracked bus.)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
