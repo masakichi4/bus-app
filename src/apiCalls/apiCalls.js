@@ -7,6 +7,7 @@ export default class ApiCall extends React.Component {
     static getPositions = async () =>{
         const headers = {
             'Content-Type': 'application/json',
+            'Access-Control-Allow-Origin':'*'
         };
 
         let v = [];
