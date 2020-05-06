@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c77d7ef0b3b1c505c26cff6df992d259",
+    "revision": "d19be80621c68d007d756f409eac5a05",
     "url": "/bus-app/index.html"
   },
   {
-    "revision": "ab45ef94509080a3a1be",
+    "revision": "b64731887c03215dd007",
     "url": "/bus-app/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bus-app/static/js/2.90afc2a1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab45ef94509080a3a1be",
-    "url": "/bus-app/static/js/main.5a2540a1.chunk.js"
+    "revision": "b64731887c03215dd007",
+    "url": "/bus-app/static/js/main.8d32baf5.chunk.js"
   },
   {
     "revision": "7f2c9e83083ad9b05269",
