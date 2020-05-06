@@ -11,7 +11,7 @@ export default class ApiCall extends React.Component {
 
         let v = [];
         await axios.get(
-            'http://api.511.org/transit/VehicleMonitoring?api_key='+api_key+'&agency=AC',
+            'https://api.511.org/transit/VehicleMonitoring?api_key='+api_key+'&agency=AC',
             {},
             {headers}
             ).then(response => {

@@ -1,8 +1,16 @@
+This app needs to be run with proper API keys from Google Maps and 511.org. 
+Please plug in your own API keys after downloading.
+
 ![Main page image](./screenshots/main.jpg)
+Main page
 ![Left menu image](./screenshots/left_menu.jpg)
+Collapsible left menu with a tab
 ![Map after updated data](./screenshots/updated.jpg)
-![Graph 1](./screenshots/graph1.jpg)
+Updated bus location
 ![Graph 2](./screenshots/graph2.jpg)
+Bottom Panel opens/collapses on click, includes two graphs. Top graph: Time spent between each stop. Bottom graph: Average speed between each stop, Stops with similar speeds are grouped and colored the same.
+(The graphs will only show after enough data is collected for the tracked bus.)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

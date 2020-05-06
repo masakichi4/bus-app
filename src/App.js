@@ -12,7 +12,7 @@ let locationUpdateTimer;
 // let busLocation;
 // let lat = busLocation? busLocation['Latitude']:37.338207;
 // let lng = busLocation? busLocation['Longitude']: -121.886330;
-const MyMap = withScriptjs(withGoogleMap((props)=>
+const MyMap = withScriptjs(withGoogleMap((props)=> 
     <GoogleMap
       defaultZoom={9}
       defaultCenter={{lat: 37.737, lng: -122.235}}
